@@ -1,2 +1,0 @@
-# FeedbackFormsGenerator
-Created with CodeSandbox
